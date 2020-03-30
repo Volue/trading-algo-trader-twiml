@@ -1,0 +1,4 @@
+<Response>
+  <Say voice="man" loop="3">DANGER, Algo Trader is down! I repeat, Algo Trader is down!</Say>
+  <Hangup/>
+</Response>
